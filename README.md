@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=wwwyes24com)](https://solved.ac/wwwyes24com)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wwwyes24com)](https://solved.ac/wwwyes24com)
