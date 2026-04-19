@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wwwyes24com)](https://solved.ac/wwwyes24com)
 
--->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kryptonite43)](https://solved.ac/kryptonite43)
